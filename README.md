@@ -25,8 +25,8 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,anaconda,gcp,github,git,mysql,opencv,pycharm,py,pytorch,tensorflow,xd&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Rehan Akhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=19rehan&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19rehan&theme=dark)
 
 <br>
