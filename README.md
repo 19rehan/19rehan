@@ -11,17 +11,14 @@
   <a href="https://github.com/rehan19">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
+  <a href="https://www.linkedin.com/in/rehan-akhtar-3863a9207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
-   <a href="https://www.instagram.com/axif_taj">
+   <a href="https://www.instagram.com/rehan_akhtar_19?igsh=MXRkMXZyNGdpcTFwOQ%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/aaxiftaj">
+   <a href="https://www.facebook.com/share/1VYQyeYr4G/?mibextid=wwXIfr">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-   <a href="https://twitter.com/axiftaj">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
