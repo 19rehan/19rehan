@@ -23,7 +23,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,anaconda,gcp,github,git,mysql,opencv,pycharm,py,pytorch,tensorflow,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,gcp,github,git,mysql,opencv,pycharm,py,pytorch,tensorflow,&perline=5)](https://skillicons.dev)
 
 ![Rehan Akhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=19rehan&show_icons=true&theme=dark)
 
