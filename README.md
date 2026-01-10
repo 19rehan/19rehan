@@ -5,6 +5,7 @@
 - 💬 Ask me anything about AI 
 - 📫 How to reach me: rehanakhtar459@gmail.com
 - ⚡ Fun fact: I once tried to teach my model sarcasm… it now thinks everything is a joke.
+
   
 ### Connect with me:
 <div id="badges">
