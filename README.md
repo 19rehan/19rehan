@@ -1,4 +1,8 @@
- <h1 align="center">Hi 👋, I'm Rehan Akhtar</h1>
+<h1 align="center">Hi 👋, I'm Rehan Akhtar</h1>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
 
 - 🔭 I’m currently working as an AI Engineer
 - 🌱 I’m currently learning Agentic AI
