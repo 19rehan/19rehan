@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rehan Akhtar</h1>
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+  <a href="https://github.com">
+    <img src="https://komarev.com" alt="Profile Views" />
+  </a>
 </p>
 
 - 🔭 I’m currently working as an AI Engineer
@@ -13,25 +15,25 @@
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/rehan19">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Github Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/rehan-akhtar-3863a9207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="Linkedin Badge"/>
   </a>
-   <a href="https://www.instagram.com/rehan_akhtar_19?igsh=MXRkMXZyNGdpcTFwOQ%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+   <a href="https://instagram.com">
+    <img src="https://shields.io" alt="Instagram Badge"/>
   </a>
-   <a href="https://www.facebook.com/share/1VYQyeYr4G/?mibextid=wwXIfr">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+   <a href="https://facebook.com">
+    <img src="https://shields.io" alt="Facebook Badge"/>
   </a>
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,gcp,github,git,mysql,opencv,pycharm,py,pytorch,tensorflow,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
-![Rehan Akhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=19rehan&show_icons=true&theme=dark)
+![Rehan Akhtar's GitHub stats](https://vercel.app)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19rehan&theme=dark)
+![Top Langs](https://vercel.app)
 
 <br>
